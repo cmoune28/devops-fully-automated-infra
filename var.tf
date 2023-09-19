@@ -1,7 +1,7 @@
 variable "key_pair_name" {
     type = string
     description = "keypair to utilize"
-    default = "JJTechKey"
+    default = "myDevOpsKey"
 }
 
 # variable "vpc_id" {
